@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a product list correctly 1`] = `
+<div>
+  <p>
+    Nombre de produits à afficher :
+  </p>
+  <input
+    type="text"
+    value="10"
+  />
+  <ul>
+    <li>
+      Lot de 3 couches
+    </li>
+    <li>
+      Lot de 5 couches
+    </li>
+    <li>
+      Lot de 10 couches
+    </li>
+    <li>
+      Lot de 20 couches
+    </li>
+  </ul>
+</div>
+`;
